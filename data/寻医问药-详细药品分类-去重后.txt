@@ -1,2 +1,2 @@
 该文件为获得ner数据的原始数据源，但是该CSV文件太大了，不能上传到GitHub上，我将其放在了百度云上，链接:https://pan.baidu.com/s/1ClmS7RPFyPGJkAY5WGOByw  密码:pdcw，如果您使用了我们的数据或代码，方便的话请start下
-该项目是我之前的仓库项目 的子项目，具体的数据可以从刚才的那个仓库中获得
+该项目是我之前的仓库项目 https://github.com/ZhaoLiang-GitHub/Sinovation_Ventures_knowledge_graph 的子项目，具体的数据可以从刚才的那个仓库中获得
