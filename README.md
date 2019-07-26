@@ -1,4 +1,3 @@
-# BILSTM-crf_for_medicine_NER
 # 中文医药ner
 
 ### train

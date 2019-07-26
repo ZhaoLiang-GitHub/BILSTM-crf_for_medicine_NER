@@ -1,0 +1,7 @@
+batch_size: 20
+dropout: 0.5
+embedding_size: 100
+hidden_size: 128
+model_path: models/
+tags: [component, disease&symptom, people]
+use_gpu: true
